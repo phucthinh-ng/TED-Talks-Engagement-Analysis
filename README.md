@@ -25,15 +25,15 @@ Sử dụng **CTEs** và **Window Functions** để tạo ra các chiều phân 
 Dashboard gồm 3 trang phân tích chuyên sâu:
 
 ### Trang 1: Overview & Performance Analysis
-![Page 1](Screenshots/image_b99701.png)
+![Page 1](Screenshots/01_TED_Talks_Overview_Performance.png)
 * Phác họa bức tranh toàn cảnh về 11 tỷ lượt xem của hệ sinh thái TED và xu hướng bùng nổ nội dung từ năm 2000.
 
 ### Trang 2: Speaker & Engagement Analysis
-![Page 2](Screenshots/image_b9971c.png)
+![Page 2](Screenshots/02_Speaker_Performance_Analysis.png)
 * Phân tích sự đối lập giữa diễn giả có số lượng bài nói lớn và diễn giả có tầm ảnh hưởng đột phá trên từng nội dung.
 
 ### Trang 3: Quantity vs. Quality (Deep-Dive)
-![Page 3](Screenshots/image_ba805f.png)
+![Page 3](Screenshots/03_Quantity_vs_Quality_Deep_Dive.png)
 * Sử dụng biểu đồ Scatter Chart để tìm ra các "Hidden Gems" – những bài nói có lượt xem trung bình nhưng nhận được tỷ lệ ủng hộ cực cao.
 
 ## 💡 Business Impact & Application
@@ -43,5 +43,4 @@ Dashboard gồm 3 trang phân tích chuyên sâu:
 ---
 
 **Contact Information:**
-* **LinkedIn:** [Link LinkedIn của Sói]
-* **Email:** [Email của Sói]
+* **Email:** nguyenphucthinh.work@gmail.com
