@@ -29,7 +29,7 @@ Dashboard gồm 3 trang phân tích chuyên sâu:
 * Phác họa bức tranh toàn cảnh về 11 tỷ lượt xem của hệ sinh thái TED và xu hướng bùng nổ nội dung từ năm 2000.
 
 ### Trang 2: Speaker & Engagement Analysis
-![Page 2](Screenshots/02_Speaker_Performance_Analysis.png)
+![Page 2](Screenshots/02_Speaker_Impact_Engagement.png)
 * Phân tích sự đối lập giữa diễn giả có số lượng bài nói lớn và diễn giả có tầm ảnh hưởng đột phá trên từng nội dung.
 
 ### Trang 3: Quantity vs. Quality (Deep-Dive)
